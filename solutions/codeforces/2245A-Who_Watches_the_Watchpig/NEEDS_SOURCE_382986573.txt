@@ -1,0 +1,4 @@
+# Solved 2245A - Who Watches the Watchpig? (submission 382986573)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

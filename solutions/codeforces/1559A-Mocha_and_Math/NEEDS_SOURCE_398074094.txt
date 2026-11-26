@@ -1,0 +1,4 @@
+# Solved 1559A - Mocha and Math (submission 398074094)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

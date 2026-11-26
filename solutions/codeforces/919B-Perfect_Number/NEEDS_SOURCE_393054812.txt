@@ -1,0 +1,4 @@
+# Solved 919B - Perfect Number (submission 393054812)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

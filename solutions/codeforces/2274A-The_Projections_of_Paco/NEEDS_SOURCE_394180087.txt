@@ -1,0 +1,4 @@
+# Solved 2274A - The Projections of Paco (submission 394180087)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

@@ -1,0 +1,4 @@
+# Solved 1030A - In Search of an Easy Problem (submission 382434156)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

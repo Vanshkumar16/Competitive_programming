@@ -1,0 +1,4 @@
+# Solved 1818A - Politics (submission 382110976)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

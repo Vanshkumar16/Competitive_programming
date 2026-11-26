@@ -1,0 +1,4 @@
+# Solved 1984B - Large Addition (submission 378053637)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

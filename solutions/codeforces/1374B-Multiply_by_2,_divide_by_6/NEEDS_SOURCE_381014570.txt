@@ -1,0 +1,4 @@
+# Solved 1374B - Multiply by 2, divide by 6 (submission 381014570)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

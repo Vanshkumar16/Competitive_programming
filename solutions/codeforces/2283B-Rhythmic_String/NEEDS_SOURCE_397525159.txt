@@ -1,0 +1,4 @@
+# Solved 2283B - Rhythmic String (submission 397525159)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

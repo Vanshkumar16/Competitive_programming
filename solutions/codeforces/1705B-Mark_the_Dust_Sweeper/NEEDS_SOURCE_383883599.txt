@@ -1,0 +1,4 @@
+# Solved 1705B - Mark the Dust Sweeper (submission 383883599)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

@@ -1,0 +1,4 @@
+# Solved 2290G2 - Lakeside Trail (Hard Version) (submission 398332469)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

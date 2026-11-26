@@ -1,0 +1,4 @@
+# Solved 71A - Way Too Long Words (submission 363198605)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.

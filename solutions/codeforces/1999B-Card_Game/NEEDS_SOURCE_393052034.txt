@@ -1,0 +1,4 @@
+# Solved 1999B - Card Game (submission 393052034)
+# No local source found at sync time. Save your solution
+# into CF_LOCAL_SOLUTIONS_DIR and the next run will
+# replace this file automatically.
