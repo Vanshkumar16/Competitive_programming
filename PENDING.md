@@ -4,253 +4,254 @@ Accepted on Codeforces but no local source found yet. Save the
 real solution into CF_LOCAL_SOLUTIONS_DIR and it will be
 upgraded automatically on the next run.
 
-- `359891910` — 236A - Boy or Girl
-- `360034945` — 4A - Watermelon
-- `360964232` — 791A - Bear and Big Brother
-- `361233602` — 231A - Team
-- `361953300` — 4A - Watermelon
-- `361980077` — 4B - Before an Exam
-- `363198605` — 71A - Way Too Long Words
-- `366024516` — 617A - Elephant
-- `366026711` — 617B - Chocolate
-- `366151247` — 50A - Domino piling
-- `376512789` — 1367B - Even Array
-- `376604840` — 59A - Word
-- `376673253` — 2232B - Cake Leveling
-- `376807735` — 281A - Word Capitalization
-- `376922450` — 1A - Theatre Square
-- `377049134` — 1901A - Line Trip
-- `377204274` — 630A - Again Twenty Five!
-- `377316769` — 1899A - Game with Integers
-- `377408074` — 1896A - Jagged Swaps
-- `377412662` — 1890A - Doremy's Paint 3
-- `377525309` — 1328A - Divisibility Problem
-- `377529226` — 1877A - Goals of Victory
-- `377610274` — 1878A - How Much Does Daytona Cost?
-- `377676077` — 2234A - Euclid, Sequence and Two Numbers
-- `377676493` — 2234B - Palindrome, Twelve and Two Terms
-- `377779160` — 1903A - Halloumi Boxes
-- `377787263` — 1853A - Desorting
-- `377821123` — 2229B - Absolute Cinema
-- `377906791` — 228A - Is your horseshoe on the other hoof?
-- `377947709` — 2233A - AI Project Development
-- `378045288` — 1985B - Maximum Multiple Sum
-- `378046067` — 1985A - Creating Words
-- `378047972` — 1987A - Upload More RAM
-- `378053637` — 1984B - Large Addition
-- `378178616` — 1987B - K-Sort
-- `378192660` — 1866A - Ambitious Kid
-- `378203254` — 1862B - Sequence Game
-- `378206864` — 1761A - Two Permutations
-- `378437313` — 1858A - Buttons
-- `378546930` — 1857A - Array Coloring
-- `378569380` — 1857A - Array Coloring
-- `378571253` — 1845A - Forbidden Integer
-- `378639377` — 1834A - Unit Array
-- `378642331` — 2236A - Games on the Train
-- `378976240` — 1837A - Grasshopper on a Line
-- `378978214` — 1831A - Twin Permutations
-- `378981632` — 1829B - Blank Space
-- `378984247` — 1814A - Coins
-- `378992604` — 1806A - Walking Master
-- `379118202` — 1805A - We Need the Zero
-- `379122842` — 1788A - One and Two
-- `379128777` — 1789A - Serval and Mocha's Array
-- `379210513` — 1783A - Make it Beautiful
-- `379212642` — 1777A - Everybody Likes Good Arrays!
-- `379252209` — 227B - Effective Approach
-- `379353946` — 1900A - Cover in Water
-- `379389216` — 2237A - Destroying Towers
-- `379402295` — 2237C - Duck Surplus
-- `379492545` — 1859A - United We Stand
-- `379495336` — 1873C - Target Practice
-- `379496529` — 1873A - Short Sort
-- `379497232` — 1873B - Good Kid
-- `379501536` — 1791C - Prepend and Append
-- `379502334` — 1791A - Codeforces Checking
-- `379505741` — 1881A - Don't Try to Count
-- `379629420` — 1883B - Chemistry
-- `379723151` — 1878C - Vasilije in Cacak
-- `379799466` — 1875A - Jellyfish and Undertale
-- `379930224` — 1855B - Longest Divisors Interval
-- `380009216` — 1794B - Not Dividing
-- `380145807` — 1726A - Mainak and Array
-- `380246301` — 1807D - Odd Queries
-- `380336061` — 2240A - Another Popcount Problem
-- `380512208` — 1828B - Permutation Swap
-- `380628909` — 1660B - Vlad and Candies
-- `380822726` — 2241A - Divide and Conquer
-- `380826415` — 2241B - Good times Good times
-- `380941824` — 1661A - Array Balancing
-- `381014570` — 1374B - Multiply by 2, divide by 6
-- `381170438` — 1850D - Balanced Round
-- `381230211` — 2185A - Perfect Root
-- `381230318` — 2185A - Perfect Root
-- `381231139` — 2185B - Prefix Max
-- `381364336` — 1696B - NIT Destroys the Universe
-- `381364763` — 1696B - NIT Destroys the Universe
-- `381476688` — 2242A - Bigrams
-- `381516508` — 2242B - Predominant Frequency Division
-- `381867373` — 1904A - Forked!
-- `382008955` — 1475A - Odd Divisor
-- `382110976` — 1818A - Politics
-- `382114927` — 1800A - Is It a Cat?
-- `382277092` — 2246B - ezraft and Array
-- `382277707` — 2246A - farmpiggie and Subset Sum
-- `382434156` — 1030A - In Search of an Easy Problem
-- `382458417` — 1989A - Catch the Coin
-- `382459074` — 266B - Queue at the School
-- `382552185` — 1030C - Vasya and Golden Ticket
-- `382651804` — 2244A - Iskander and Drawings
-- `382656111` — 2244B - Nikita and Books
-- `382684958` — 2244D - Yaroslav and Productivity
-- `382928531` — 1174A - Ehab Fails to Be Thanos
-- `382942190` — 1676B - Equal Candies
-- `382986573` — 2245A - Who Watches the Watchpig?
-- `383320176` — 2247A - Zero Sum
-- `383333755` — 2247B - Yet Another Constructive
-- `383368774` — 2247D1 - XOR Sorting (Easy Version)
-- `383504121` — 705A - Hulk
-- `383617525` — 1370A - Maximum GCD
-- `383713446` — 1411B - Fair Numbers
-- `383744586` — 1765M - Minimum LCM
-- `383761456` — 271A - Beautiful Year
-- `383882534` — 1520D - Same Differences
-- `383883599` — 1705B - Mark the Dust Sweeper
-- `383884790` — 1714A - Everyone Loves to Sleep
-- `384099152` — 2229A - Slimes on a Line
-- `384204423` — 1405B - Array Cancellation
-- `384224777` — 1269A - Equation
-- `384228838` — 758A - Holiday Of Equality
-- `384234430` — 1509B - TMT Document
-- `384367946` — 2250A - Threshold Movement
-- `384402482` — 2250B - String Construction
-- `384418397` — 2250D - Permutation Cuts
-- `384544205` — 4C - Registration System
-- `384555353` — 808A - Lucky Year
-- `384558468` — 1971C - Clock and Strings
-- `384688994` — 1406A - Subset Mex
-- `384690731` — 1703E - Mirror Grid
-- `384691731` — 122A - Lucky Division
-- `384694851` — 1549A - Gregor and Cryptography
-- `384811905` — 1614B - Divan and a New Project 
-- `385021177` — 660A - Co-prime Array
-- `385193593` — 1033B - Square Difference
-- `385209496` — 1629B - GCD Arrays
-- `385212523` — 1762A - Divide and Conquer
-- `385214112` — 898B - Proper Nutrition
-- `385327454` — 1617B - GCD Problem
-- `385329021` — 17A - Noldbach problem
-- `385551247` — 1277B - Make Them Odd
-- `385579485` — 2254A - Riptide
-- `385615075` — 2254B - Evanescent
-- `385636543` — 2254C1 - Marenol (easy version)
-- `385656440` — 2254C2 - Marenol (hard version)
-- `385704973` — 637B - Chat Order
-- `385921010` — 2252A - Boss Fight
-- `385939500` — 2252D - Array Replacement
-- `386225988` — 1551B1 - Wonderful Coloring - 1
-- `386257910` — 1808B - Playing in a Casino
-- `386440756` — 405A - Gravity Flip
-- `386444284` — 1420A - Cubes Sorting
-- `386446584` — 118A - String Task
-- `386458208` — 903C - Boxes Packing
-- `386465148` — 1472D - Even-Odd Game
-- `386722152` — 433B - Kuriyama Mirai's Stones
-- `386949445` — 295A - Greg and Array
-- `387446674` — 2257A - Creating Abbreviations
-- `387454248` — 2257D - Bermuda Rectangle
-- `388788653` — 2258A - Odd Eraser
-- `388799071` — 2258B1 - Carrot Chopdown (Easy Version)
-- `389211513` — 276C - Little Girl and Maximum Sum
-- `389384990` — 816B - Karen and Coffee
-- `389546299` — 263A - Beautiful Matrix
-- `389901013` — 2260A - Monocarp's Contest
-- `389911128` — 2260B - Monocarp and Projects
-- `390620998` — 2264A - Rumb Needs a Hand
-- `390629953` — 2264B - Knife's Pill Farm
-- `391711960` — 2266A - Good Contest
-- `391712127` — 2266B - Three Piles
-- `392011788` — 2267A - Turn Into a Palindrome
-- `392024807` — 2267B - Fashionable Array
-- `392038906` — 2267D - Backrooms Hill
-- `392774862` — 1426B - Symmetric Matrix
-- `392804148` — 1679A - AvtoBus
-- `393052034` — 1999B - Card Game
-- `393054812` — 919B - Perfect Number
-- `393058070` — 831A - Unimodal Array
-- `393149082` — 1954B - Make It Ugly
-- `393196383` — 1839C - Insert Zero and Invert Prefix
-- `393277425` — 1999E - Triple Operations
-- `393533407` — 2275A - In Search of Convenience
-- `393585132` — 2275C - Unrequited Love
-- `393605382` — 2275B - Did Not Go to Print
-- `393622047` — 2275E - Repentance Is Already on the Way
-- `394162907` — 2271A - Robot Odd Moves
-- `394180087` — 2274A - The Projections of Paco
-- `394195337` — 2274B - Prefix
-- `394754688` — 1537B - Bad Boy
-- `394756142` — 1675B - Make It Increasing
-- `395870608` — 1666D - Deletive Editing
-- `395925204` — 2277A - Subset Selecting
-- `396258934` — 1665B - Array Cloning Technique
-- `396421759` — 2276A - Perfect Sandwiches
-- `396596282` — 2269A - SauSaGe Bank
-- `396682364` — 2259B - Minus Two
-- `396784975` — 2256A - Three Numbers on the Blackboard
-- `396818554` — 2278A - Fraction and Six
-- `396996275` — 2220A - Blocked
-- `397164626` — 2238A - Another Puzzle from Papyrus
-- `397243781` — 1624B - Make AP
-- `397284040` — 1607B - Odd Grasshopper
-- `397415185` — 1593B - Make it Divisible by 25
-- `397416588` — 2283A - Numbers on the Board
-- `397525159` — 2283B - Rhythmic String
-- `397525842` — 1606A - AB Balance
-- `397586732` — 2284A1 - 15K4JR3B (Easy Version)
-- `397613128` — 2284B - Introduction to the Niche Internet
-- `397630484` — 2284A2 - 15K4JR3B (Hard Version)
-- `397635397` — 2284C1 - Disgusting + GCD (Constructive Version)
-- `397663140` — 1373B - 01 Game
-- `397737453` — 2280A - Are They the Same?
-- `397762351` — 2280C - Reverse and Double
-- `397801237` — 1440B - Sum of Medians
-- `397884242` — 1380A - Three Indices
-- `397978708` — 1471A - Strange Partition
-- `397980136` — 1543A - Exciting Bets
-- `398074094` — 1559A - Mocha and Math
-- `398074713` — 1582B - Luntik and Subsequences
-- `398075479` — 1837B - Comparison String
-- `398185974` — 1873E - Building an Aquarium
-- `398242984` — 2290A - Three Piles
-- `398251804` — 2290B - Stubborn Pen
-- `398281314` — 2290D - Letters Down
-- `398289160` — 2290E - Avalanche
-- `398300959` — 2290F - Value Counters
-- `398314381` — 2290G1 - Lakeside Trail (Easy Version)
-- `398330996` — 2290C - Books on a Shelf
-- `398332469` — 2290G2 - Lakeside Trail (Hard Version)
-- `398373783` — 1913B - Swap and Delete
-- `398480239` — 1883C - Raspberries
-- `398487100` — 1876A - Helmets in Night Light
-- `398602063` — 1725B - Basketball Together
-- `398605672` — 26A - Almost Prime
-- `398606577` — 1033B - Square Difference
-- `398835533` — 101853C - Intersections
-- `398835560` — 101853C - Intersections
-- `399087439` — 251A - Points on Line
-- `399183648` — 1859B - Olya and Game with Arrays
-- `399284835` — 1849B - Monsters
-- `399285581` — 1401C - Mere Array
-- `399417010` — 1840C - Ski Resort
-- `399419436` — 1831B - Array merging
-- `399420090` — 2288A - Youmu Konpaku and the Duel
-- `399572726` — 1791D - Distinct Split
-- `399578463` — 1691B - Shoe Shuffling
-- `399645345` — 1715B - Beautiful Array
-- `399647156` — 2289A - Problem from Dolgoderevenskoye
-- `399648086` — 2289B - Problem from Chebarkul
-- `399744662` — 1690D - Black and White Stripe
-- `399747306` — 1659A - Red Versus Blue
-- `399749308` — 1447B - Numbers Box
-- `399844599` — 1485A - Add and Divide
+- `359891910` — see solutions/codeforces
+- `360034945` — see solutions/codeforces
+- `360964232` — see solutions/codeforces
+- `361233602` — see solutions/codeforces
+- `361953300` — see solutions/codeforces
+- `361980077` — see solutions/codeforces
+- `363198605` — see solutions/codeforces
+- `366024516` — see solutions/codeforces
+- `366026711` — see solutions/codeforces
+- `366151247` — see solutions/codeforces
+- `376512789` — see solutions/codeforces
+- `376604840` — see solutions/codeforces
+- `376673253` — see solutions/codeforces
+- `376807735` — see solutions/codeforces
+- `376922450` — see solutions/codeforces
+- `377049134` — see solutions/codeforces
+- `377204274` — see solutions/codeforces
+- `377316769` — see solutions/codeforces
+- `377408074` — see solutions/codeforces
+- `377412662` — see solutions/codeforces
+- `377525309` — see solutions/codeforces
+- `377529226` — see solutions/codeforces
+- `377610274` — see solutions/codeforces
+- `377676077` — see solutions/codeforces
+- `377676493` — see solutions/codeforces
+- `377779160` — see solutions/codeforces
+- `377787263` — see solutions/codeforces
+- `377821123` — see solutions/codeforces
+- `377906791` — see solutions/codeforces
+- `377947709` — see solutions/codeforces
+- `378045288` — see solutions/codeforces
+- `378046067` — see solutions/codeforces
+- `378047972` — see solutions/codeforces
+- `378053637` — see solutions/codeforces
+- `378178616` — see solutions/codeforces
+- `378192660` — see solutions/codeforces
+- `378203254` — see solutions/codeforces
+- `378206864` — see solutions/codeforces
+- `378437313` — see solutions/codeforces
+- `378546930` — see solutions/codeforces
+- `378569380` — see solutions/codeforces
+- `378571253` — see solutions/codeforces
+- `378639377` — see solutions/codeforces
+- `378642331` — see solutions/codeforces
+- `378976240` — see solutions/codeforces
+- `378978214` — see solutions/codeforces
+- `378981632` — see solutions/codeforces
+- `378984247` — see solutions/codeforces
+- `378992604` — see solutions/codeforces
+- `379118202` — see solutions/codeforces
+- `379122842` — see solutions/codeforces
+- `379128777` — see solutions/codeforces
+- `379210513` — see solutions/codeforces
+- `379212642` — see solutions/codeforces
+- `379252209` — see solutions/codeforces
+- `379353946` — see solutions/codeforces
+- `379389216` — see solutions/codeforces
+- `379402295` — see solutions/codeforces
+- `379492545` — see solutions/codeforces
+- `379495336` — see solutions/codeforces
+- `379496529` — see solutions/codeforces
+- `379497232` — see solutions/codeforces
+- `379501536` — see solutions/codeforces
+- `379502334` — see solutions/codeforces
+- `379505741` — see solutions/codeforces
+- `379629420` — see solutions/codeforces
+- `379723151` — see solutions/codeforces
+- `379799466` — see solutions/codeforces
+- `379930224` — see solutions/codeforces
+- `380009216` — see solutions/codeforces
+- `380145807` — see solutions/codeforces
+- `380246301` — see solutions/codeforces
+- `380336061` — see solutions/codeforces
+- `380512208` — see solutions/codeforces
+- `380628909` — see solutions/codeforces
+- `380822726` — see solutions/codeforces
+- `380826415` — see solutions/codeforces
+- `380941824` — see solutions/codeforces
+- `381014570` — see solutions/codeforces
+- `381170438` — see solutions/codeforces
+- `381230211` — see solutions/codeforces
+- `381230318` — see solutions/codeforces
+- `381231139` — see solutions/codeforces
+- `381364336` — see solutions/codeforces
+- `381364763` — see solutions/codeforces
+- `381476688` — see solutions/codeforces
+- `381516508` — see solutions/codeforces
+- `381867373` — see solutions/codeforces
+- `382008955` — see solutions/codeforces
+- `382110976` — see solutions/codeforces
+- `382114927` — see solutions/codeforces
+- `382277092` — see solutions/codeforces
+- `382277707` — see solutions/codeforces
+- `382434156` — see solutions/codeforces
+- `382458417` — see solutions/codeforces
+- `382459074` — see solutions/codeforces
+- `382552185` — see solutions/codeforces
+- `382651804` — see solutions/codeforces
+- `382656111` — see solutions/codeforces
+- `382684958` — see solutions/codeforces
+- `382928531` — see solutions/codeforces
+- `382942190` — see solutions/codeforces
+- `382986573` — see solutions/codeforces
+- `383320176` — see solutions/codeforces
+- `383333755` — see solutions/codeforces
+- `383368774` — see solutions/codeforces
+- `383504121` — see solutions/codeforces
+- `383617525` — see solutions/codeforces
+- `383713446` — see solutions/codeforces
+- `383744586` — see solutions/codeforces
+- `383761456` — see solutions/codeforces
+- `383882534` — see solutions/codeforces
+- `383883599` — see solutions/codeforces
+- `383884790` — see solutions/codeforces
+- `384099152` — see solutions/codeforces
+- `384204423` — see solutions/codeforces
+- `384224777` — see solutions/codeforces
+- `384228838` — see solutions/codeforces
+- `384234430` — see solutions/codeforces
+- `384367946` — see solutions/codeforces
+- `384402482` — see solutions/codeforces
+- `384418397` — see solutions/codeforces
+- `384544205` — see solutions/codeforces
+- `384555353` — see solutions/codeforces
+- `384558468` — see solutions/codeforces
+- `384688994` — see solutions/codeforces
+- `384690731` — see solutions/codeforces
+- `384691731` — see solutions/codeforces
+- `384694851` — see solutions/codeforces
+- `384811905` — see solutions/codeforces
+- `385021177` — see solutions/codeforces
+- `385193593` — see solutions/codeforces
+- `385209496` — see solutions/codeforces
+- `385212523` — see solutions/codeforces
+- `385214112` — see solutions/codeforces
+- `385327454` — see solutions/codeforces
+- `385329021` — see solutions/codeforces
+- `385551247` — see solutions/codeforces
+- `385579485` — see solutions/codeforces
+- `385615075` — see solutions/codeforces
+- `385636543` — see solutions/codeforces
+- `385656440` — see solutions/codeforces
+- `385704973` — see solutions/codeforces
+- `385921010` — see solutions/codeforces
+- `385939500` — see solutions/codeforces
+- `386225988` — see solutions/codeforces
+- `386257910` — see solutions/codeforces
+- `386440756` — see solutions/codeforces
+- `386444284` — see solutions/codeforces
+- `386446584` — see solutions/codeforces
+- `386458208` — see solutions/codeforces
+- `386465148` — see solutions/codeforces
+- `386722152` — see solutions/codeforces
+- `386949445` — see solutions/codeforces
+- `387446674` — see solutions/codeforces
+- `387454248` — see solutions/codeforces
+- `388788653` — see solutions/codeforces
+- `388799071` — see solutions/codeforces
+- `389211513` — see solutions/codeforces
+- `389384990` — see solutions/codeforces
+- `389546299` — see solutions/codeforces
+- `389901013` — see solutions/codeforces
+- `389911128` — see solutions/codeforces
+- `390620998` — see solutions/codeforces
+- `390629953` — see solutions/codeforces
+- `391711960` — see solutions/codeforces
+- `391712127` — see solutions/codeforces
+- `392011788` — see solutions/codeforces
+- `392024807` — see solutions/codeforces
+- `392038906` — see solutions/codeforces
+- `392774862` — see solutions/codeforces
+- `392804148` — see solutions/codeforces
+- `393052034` — see solutions/codeforces
+- `393054812` — see solutions/codeforces
+- `393058070` — see solutions/codeforces
+- `393149082` — see solutions/codeforces
+- `393196383` — see solutions/codeforces
+- `393277425` — see solutions/codeforces
+- `393533407` — see solutions/codeforces
+- `393585132` — see solutions/codeforces
+- `393605382` — see solutions/codeforces
+- `393622047` — see solutions/codeforces
+- `394162907` — see solutions/codeforces
+- `394180087` — see solutions/codeforces
+- `394195337` — see solutions/codeforces
+- `394754688` — see solutions/codeforces
+- `394756142` — see solutions/codeforces
+- `395870608` — see solutions/codeforces
+- `395925204` — see solutions/codeforces
+- `396258934` — see solutions/codeforces
+- `396421759` — see solutions/codeforces
+- `396596282` — see solutions/codeforces
+- `396682364` — see solutions/codeforces
+- `396784975` — see solutions/codeforces
+- `396818554` — see solutions/codeforces
+- `396996275` — see solutions/codeforces
+- `397164626` — see solutions/codeforces
+- `397243781` — see solutions/codeforces
+- `397284040` — see solutions/codeforces
+- `397415185` — see solutions/codeforces
+- `397416588` — see solutions/codeforces
+- `397525159` — see solutions/codeforces
+- `397525842` — see solutions/codeforces
+- `397586732` — see solutions/codeforces
+- `397613128` — see solutions/codeforces
+- `397630484` — see solutions/codeforces
+- `397635397` — see solutions/codeforces
+- `397663140` — see solutions/codeforces
+- `397737453` — see solutions/codeforces
+- `397762351` — see solutions/codeforces
+- `397801237` — see solutions/codeforces
+- `397884242` — see solutions/codeforces
+- `397978708` — see solutions/codeforces
+- `397980136` — see solutions/codeforces
+- `398074094` — see solutions/codeforces
+- `398074713` — see solutions/codeforces
+- `398075479` — see solutions/codeforces
+- `398185974` — see solutions/codeforces
+- `398242984` — see solutions/codeforces
+- `398251804` — see solutions/codeforces
+- `398281314` — see solutions/codeforces
+- `398289160` — see solutions/codeforces
+- `398300959` — see solutions/codeforces
+- `398314381` — see solutions/codeforces
+- `398330996` — see solutions/codeforces
+- `398332469` — see solutions/codeforces
+- `398373783` — see solutions/codeforces
+- `398480239` — see solutions/codeforces
+- `398487100` — see solutions/codeforces
+- `398602063` — see solutions/codeforces
+- `398605672` — see solutions/codeforces
+- `398606577` — see solutions/codeforces
+- `398835533` — see solutions/codeforces
+- `398835560` — see solutions/codeforces
+- `399087439` — see solutions/codeforces
+- `399183648` — see solutions/codeforces
+- `399284835` — see solutions/codeforces
+- `399285581` — see solutions/codeforces
+- `399417010` — see solutions/codeforces
+- `399419436` — see solutions/codeforces
+- `399420090` — see solutions/codeforces
+- `399572726` — see solutions/codeforces
+- `399578463` — see solutions/codeforces
+- `399645345` — see solutions/codeforces
+- `399647156` — see solutions/codeforces
+- `399648086` — see solutions/codeforces
+- `399744662` — see solutions/codeforces
+- `399747306` — see solutions/codeforces
+- `399749308` — see solutions/codeforces
+- `399844599` — see solutions/codeforces
+- `399864822` — 1791D - Distinct Split
