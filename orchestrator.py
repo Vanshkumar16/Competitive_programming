@@ -1,19 +1,16 @@
 #!/usr/bin/env python3
-"""Orchestrator: the single entry point. Your cron / Task Scheduler /
-GitHub Actions workflow calls THIS, never the agents directly.
+"""Orchestrator: the single entry point. Your cron / Task Scheduler
+calls THIS, never the agents directly.
 
 Sequence and failure policy:
-  1. Preflight  -- if a platform fails its checks, that platform is dropped
-                   from the run (and logged). If ALL platforms fail, stop.
-  2. Extraction -- per-platform errors are captured, not raised; whatever
-                   succeeded still flows to the pusher.
+  1. Preflight  -- if Codeforces checks fail, stop and log.
+  2. Extraction -- errors are captured, not raised.
   3. Push       -- git state is snapshotted first; on unrecoverable git
                    failure the working tree is rolled back so no half-done
                    run is ever left behind.
 
 Usage:
-  python orchestrator.py                       # both platforms (local cron)
-  python orchestrator.py --platforms leetcode  # cloud workflow (no local FS)
+  python orchestrator.py
 """
 
 import argparse
@@ -57,46 +54,33 @@ def git_rollback(snapshot: str) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--platforms", default="codeforces,leetcode",
-                        help="comma-separated: codeforces,leetcode")
+    parser.add_argument("--platforms", default="codeforces",
+                        help="comma-separated platforms (defaults to codeforces)")
     parser.add_argument("--no-push", action="store_true",
                         help="write files + state but skip git (for testing)")
     args = parser.parse_args()
-    requested = {p.strip() for p in args.platforms.split(",") if p.strip()}
 
     load_dotenv()
 
     # ---- Stage 1: preflight ----
-    report = preflight.run(requested)
-    active = set()
-    if "codeforces" in requested and report.cf_ok:
-        active.add("codeforces")
-    if "leetcode" in requested and report.lc_ok:
-        active.add("leetcode")
-
-    dropped = requested - active
-    if dropped:
-        log(f"**Preflight dropped {', '.join(sorted(dropped))}**: {report.summary()}")
-    if not active:
-        log(f"**Run aborted -- preflight failed for all platforms**: {report.summary()}")
+    report = preflight.run()
+    if not report.cf_ok:
+        log(f"**Run aborted -- preflight failed**: {report.summary()}")
         print(f"Preflight failed: {report.summary()}")
         return 1
-    print(f"Preflight OK for: {', '.join(sorted(active))}")
+    print("Preflight OK: Codeforces")
 
     # ---- Stage 2: extraction (read-only, safe) ----
     state = load_state()
-    extraction = extractor.run(active, state)
+    extraction = extractor.run(state=state)
     if extraction.cf_error:
         log(f"**Codeforces extraction FAILED**: `{extraction.cf_error}`")
         print(f"Codeforces extraction failed: {extraction.cf_error}")
-    if extraction.lc_error:
-        log(f"**LeetCode extraction FAILED**: `{extraction.lc_error}`")
-        print(f"LeetCode extraction failed: {extraction.lc_error}")
     if not extraction.items:
         log("Run complete: nothing new.")
         print("Nothing new to sync.")
-        # Still commit the log line if we're pushing, so failures surface.
-        if not args.no_push:
+        # Only push to git if there are errors to surface, avoiding empty commits
+        if extraction.cf_error and not args.no_push:
             pusher.push_to_git(pusher.PushResult(),
                                f"sync: log update {_now()}")
         return 0
@@ -105,8 +89,7 @@ def main() -> int:
     snapshot = git_snapshot()
     try:
         result = pusher.write_items(extraction.items, state)
-        summary = (f"{result.new_count} new, {result.upgraded_count} upgraded "
-                   f"({', '.join(sorted(active))})")
+        summary = f"{result.new_count} new, {result.upgraded_count} upgraded (codeforces)"
         log(f"Run complete: {summary}")
         if not args.no_push:
             result = pusher.push_to_git(result, f"sync: {summary} {_now()}")

@@ -2,8 +2,7 @@
 
 data/state.json:
 {
-  "codeforces": {"synced_ids": [...], "pending_ids": [...]},
-  "leetcode":   {"synced_ids": [...]}
+  "codeforces": {"synced_ids": [...], "pending_ids": [...]}
 }
 pending_ids = submissions committed as placeholders (no local source found
 yet); the extractor re-checks them each run so they self-correct.
@@ -26,7 +25,6 @@ def load_state() -> dict:
             state = json.load(f)
     state.setdefault("codeforces", {}).setdefault("synced_ids", [])
     state["codeforces"].setdefault("pending_ids", [])
-    state.setdefault("leetcode", {}).setdefault("synced_ids", [])
     return state
 
 
