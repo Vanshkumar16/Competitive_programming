@@ -255,6 +255,10 @@ upgraded automatically on the next run.
 - `399749308` — see solutions/codeforces
 - `399844599` — see solutions/codeforces
 - `399864822` — see solutions/codeforces
-- `399953196` — 1312B - Bogosort
-- `399954194` — 1418A - Buying Torches
-- `399955273` — 1238A - Prime Subtraction
+- `399953196` — see solutions/codeforces
+- `399954194` — see solutions/codeforces
+- `399955273` — see solutions/codeforces
+- `400011092` — 2292A - Picnic for Two
+- `400020612` — 2292B - Grapefruit Juice
+- `400032260` — 2292C - Finding Shapes in the Clouds
+- `400042331` — 2292D - Unexpected Precipitation
