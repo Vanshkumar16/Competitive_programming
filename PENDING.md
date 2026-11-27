@@ -254,4 +254,7 @@ upgraded automatically on the next run.
 - `399747306` — see solutions/codeforces
 - `399749308` — see solutions/codeforces
 - `399844599` — see solutions/codeforces
-- `399864822` — 1791D - Distinct Split
+- `399864822` — see solutions/codeforces
+- `399953196` — 1312B - Bogosort
+- `399954194` — 1418A - Buying Torches
+- `399955273` — 1238A - Prime Subtraction
